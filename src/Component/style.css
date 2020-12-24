@@ -1,0 +1,17 @@
+.head{
+    color: white;
+    text-align: center;
+    background-color: black;
+    font-size: 300%;
+    font-family: 'Times New Roman', Times, serif;
+}
+.div{
+    background-color: rgb(250, 186, 9);
+}
+.table{
+    height: 500px;
+    width: 500px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    align-items: center;
+}
